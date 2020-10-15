@@ -6,7 +6,7 @@
 - Laboratorio: Emiliano Galeana Araujo
 - Laboratorio: Rodrigo Guadalupe Chávez Jiménez
 - Practica 1: Introducción a Haskell y funciones.
-- Integrantes: Diego Navarro,
+- Integrantes: Diego Navarro, Fernando Ocampo, 
 -
 -
 -}
